@@ -10,42 +10,42 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## Git e Github
 
-- Configuração
-- Comandos Básicos de GIT
-- Visualizar histórico
-- Comitar arquivo/diretório
-- Repositório Remoto
-- Branches
-- Reset
-- Gitignore
+- [ ] Configuração
+- [ ] Comandos Básicos de GIT
+- [ ] Visualizar histórico
+- [ ] Comitar arquivo/diretório
+- [ ] Repositório Remoto
+- [ ] Branches
+- [ ] Reset
+- [ ] Gitignore
 
 ## Internet
-- Estudar sobre como funciona a internet
-- Como a web funciona
-- Cliente e servidor
-- Como funciona TCP / IP
-- Como funciona DNS
-- Estudar sobre HTTP
-- Entendendo sobre os nomes de domínio
-- Como que os Navegadores e como eles funcionam
-- Como que funciona hospedagem de um site
+- [ ] Estudar sobre como funciona a internet
+- [ ] Como a web funciona
+- [ ] Cliente e servidor
+- [ ] Como funciona TCP / IP
+- [ ] Como funciona DNS
+- [ ] Estudar sobre HTTP
+- [ ] Entendendo sobre os nomes de domínio
+- [ ] Como que os Navegadores e como eles funcionam
+- [ ] Como que funciona hospedagem de um site
 
 ## HTML5
 
-- O que é HTML 
-- Como funciona o HTML
-- O que são tags e como que elas funciona
-- Estrutura básica de um documento HTML
-- Tags importantes para o HTML Básico
-- Estudar sobre seletores de classes e IDs no HTML
-- Escrevendo HTML semântico
-- Ver conceitos sobre Acessibilidade
-- Estudar conceitos básicos de SEO (Otimização para Mecanismos de Busca)
+- [ ] O que é HTML 
+- [ ] Como funciona o HTML
+- [ ] O que são tags e como que elas funciona
+- [ ] Estrutura básica de um documento HTML
+- [ ] Tags importantes para o HTML Básico
+- [ ] Estudar sobre seletores de classes e IDs no HTML
+- [ ] Escrevendo HTML semântico
+- [ ] Ver conceitos sobre Acessibilidade
+- [ ] Estudar conceitos básicos de SEO (Otimização para Mecanismos de Busca)
 
 ## CSS3
 
-- Estudar os fundamentos de propriedade de CSS
-- Layouts de marcação
+- [ ] Estudar os fundamentos de propriedade de CSS
+- [ ] Layouts de marcação
     - Layouts de marcação
     - Flutuadores
     - Posionamento
@@ -57,26 +57,26 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## Pré - Processadores
 
-- Sass
+- [ ] Sass
 
 ## Javascript
 
-- Estudando lógica de programação com JavaScript
-- Estudar e aprender os conceitos básicos
-- Aprenda manipulação DOM
-- Testes com JavaScript
-- Estudar sobre POO (Programação orientada a objetos) para JavaScript
-- Aprender Programação Funcional
-- Com o tempo aprender padrões de projetos em JavaScript
+- [ ] Estudando lógica de programação com JavaScript
+- [ ] Estudar e aprender os conceitos básicos
+- [ ] Aprenda manipulação DOM
+- [ ] Testes com JavaScript
+- [ ] Estudar sobre POO (Programação orientada a objetos) para JavaScript
+- [ ] Aprender Programação Funcional
+- [ ] Com o tempo aprender padrões de projetos em JavaScript
 
 ## Gerenciador de tarefa
 
-- Npm
-- Yarn
+- [ ] Npm
+- [ ] Yarn
 
 ## Framework JavaScript
 
-- React.js
+- [ ] React.js
 
 # #100daysofcode
 
