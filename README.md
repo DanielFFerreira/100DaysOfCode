@@ -46,14 +46,14 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 - [ ] Estudar os fundamentos de propriedade de CSS
 - [ ] Layouts de marcação
-    - Layouts de marcação
-    - Flutuadores
-    - Posionamento
-    - Display (Exibição)
-    - Box Model (Modelos de caixa)
-    - CSS Grid
-    - Flex box
-    - Design responsivo e consultas de Media Queries
+- [ ] Layouts de marcação
+- [ ] Flutuadores
+- [ ] Posionamento
+- [ ] Display (Exibição)
+- [ ] Box Model (Modelos de caixa)
+- [ ] CSS Grid
+- [ ] Flex box
+- [ ] Design responsivo e consultas de Media Queries
 
 ## Pré - Processadores
 
