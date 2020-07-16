@@ -10,19 +10,19 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## Git e Github
 
-- [ ] Configuração
-- [ ] Comandos Básicos de GIT
-- [ ] Visualizar histórico
-- [ ] Comitar arquivo/diretório
-- [ ] Repositório Remoto
-- [ ] Branches
-- [ ] Reset
-- [ ] Gitignore
+- [x] Configuração
+- [x] Comandos Básicos de GIT
+- [x] Visualizar histórico
+- [x] Comitar arquivo/diretório
+- [x] Repositório Remoto
+- [x] Branches
+- [x] Reset
+- [x] Gitignore
 
 ## Internet
-- [ ] Estudar sobre como funciona a internet
-- [ ] Como a web funciona
-- [ ] Cliente e servidor
+- [x] Estudar sobre como funciona a internet
+- [x] Como a web funciona
+- [x] Cliente e servidor
 - [ ] Como funciona TCP / IP
 - [ ] Como funciona DNS
 - [ ] Estudar sobre HTTP
