@@ -4,7 +4,7 @@
 
 ## Objetivos no desafio
 Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para criar um rotina de estudos.
-
+## Estudar Lógica de Programação com linguagem C
 ## Estudar sobre UX design
 - Figma
 
