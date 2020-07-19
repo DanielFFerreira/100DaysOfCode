@@ -83,7 +83,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 |Dia|Estudos|Tempo|
 | -------- | ----------------- | -------- |
 |1|Revisando os conceitos de git e estudando o funcionamento da internet| 3h
-|2|Estudando sobre a linguagem C|3h|
+|2|Estudando sobre a linguagem C e seus fundamentos|3h|
 |3|||
 |4|||
 |5|||
