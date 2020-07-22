@@ -7,9 +7,9 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 - :memo: Contéudo diarios: 
 
-[Linkekin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) 
+[Linkekin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) <img src="https://icon-icons.com/icons2/805/PNG/32/linkedin_icon-icons.com_65929.png"/>
 
-[Instagram](<https://www.instagram.com/danielfferreira1/>)
+[Instagram](<https://www.instagram.com/danielfferreira1/>) <img src="https://icon-icons.com/icons2/836/PNG/32/Instagram_icon-icons.com_66804.png"/>
 
 ## Estudar Lógica de Programação com linguagem C e estrutura de dados
 
