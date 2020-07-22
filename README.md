@@ -86,7 +86,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 |2|Estudando sobre a linguagem C e seus fundamentos|3h|
 |3|Estudando sobre ponteiros, structs, Matrizes, estrutura de repetição, condiocinais simples e compostas, trabalhando com arquivos...|3h|
 |4|Finalizando projeto final da faculdade, Foi desenvolvido um sistemas de cadastro de usuários|3h|
-|5|||
+|5|Estudar conceitos de HTML e acessibilidade e SEO|3h|
 |6|||
 |7|||
 |8|||
