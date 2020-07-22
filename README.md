@@ -13,7 +13,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## Estudar Lógica de Programação com linguagem C e estrutura de dados
 
-## Git e Github
+## Git e Github <img src="https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png"/>
 
 - [x] Configuração
 - [x] Comandos Básicos de GIT
@@ -24,7 +24,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [x] Reset
 - [x] Gitignore
 
-## Internet
+## Internet <img src="https://icon-icons.com/icons2/39/PNG/32/browser_internet_network_6248.png"/>
 - [x] Estudar sobre como funciona a internet
 - [x] Como a web funciona
 - [x] Cliente e servidor
@@ -35,7 +35,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [x] Como que os Navegadores e como eles funcionam
 - [x] Como que funciona hospedagem de um site
 
-## HTML5
+## HTML5 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
 
 - [x] O que é HTML 
 - [x] Como funciona o HTML
@@ -47,7 +47,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [ ] Ver conceitos sobre Acessibilidade
 - [ ] Estudar conceitos básicos de SEO (Otimização para Mecanismos de Busca)
 
-## CSS3
+## CSS3 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
 
 - [ ] Estudar os fundamentos de propriedade de CSS
 - [ ] Layouts de marcação
