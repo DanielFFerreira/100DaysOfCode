@@ -82,7 +82,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 ## Estudar sobre UX design
 - [ ] Figma
 
-## Framework JavaScript <img src="https://icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png"/> <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_yarn_icon_130052.png"/>
+## Framework JavaScript <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png"/> <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_yarn_icon_130052.png"/>
 
 - [ ] React.js
 
