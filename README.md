@@ -23,19 +23,19 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [x] Estudar sobre como funciona a internet
 - [x] Como a web funciona
 - [x] Cliente e servidor
-- [ ] Como funciona TCP / IP
-- [ ] Como funciona DNS
-- [ ] Estudar sobre HTTP
-- [ ] Entendendo sobre os nomes de domínio
-- [ ] Como que os Navegadores e como eles funcionam
-- [ ] Como que funciona hospedagem de um site
+- [x] Como funciona TCP / IP
+- [x] Como funciona DNS
+- [x] Estudar sobre HTTP
+- [x] Entendendo sobre os nomes de domínio
+- [x] Como que os Navegadores e como eles funcionam
+- [x] Como que funciona hospedagem de um site
 
 ## HTML5
 
-- [ ] O que é HTML 
-- [ ] Como funciona o HTML
-- [ ] O que são tags e como que elas funciona
-- [ ] Estrutura básica de um documento HTML
+- [x] O que é HTML 
+- [x] Como funciona o HTML
+- [x] O que são tags e como que elas funciona
+- [x] Estrutura básica de um documento HTML
 - [ ] Tags importantes para o HTML Básico
 - [ ] Estudar sobre seletores de classes e IDs no HTML
 - [ ] Escrevendo HTML semântico
