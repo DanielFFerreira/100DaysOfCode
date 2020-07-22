@@ -64,7 +64,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 - [ ] Sass
 
-## Javascript
+## Javascript <img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" />
 
 - [ ] Estudando lógica de programação com JavaScript
 - [ ] Estudar e aprender os conceitos básicos
