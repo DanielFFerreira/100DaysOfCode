@@ -5,8 +5,9 @@
 ## Objetivos no desafio
 Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para criar um rotina de estudos. Estudo para melhorar as habilidade nas tecnologias web, que estão listados abaixo.
 
-- :memo: Contéudo diarios 
-[Linkedin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) " <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+- :memo: Contéudo diarios:
+
+[Linkedin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) " <div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Estudar Lógica de Programação com linguagem C e estrutura de dados
 
