@@ -7,7 +7,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 - :memo: Contéudo diarios: 
 
-[Linkekin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-1.png
+[Linkekin](<https://www.linkedin.com/in/daniel-freitas-ferreira-75a156128>) 
 
 [Instagram](<https://www.instagram.com/danielfferreira1/>)
 
@@ -190,3 +190,5 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 | 98 |  |  |  |
 | 99 |  |  |  |
 | 100 |  |  |  |
+
+Com ❤ Daniel Developer!
