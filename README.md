@@ -11,7 +11,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 [Instagram](<https://www.instagram.com/danielfferreira1/>) <img src="https://icon-icons.com/icons2/836/PNG/32/Instagram_icon-icons.com_66804.png"/>
 
-## Estudar Lógica de Programação com linguagem C e estrutura de dados
+## Estudar Lógica de Programação com linguagem C e estrutura de dados <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_c_icon_130711.png"/>
 
 ## Git e Github <img src="https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png"/>
 
