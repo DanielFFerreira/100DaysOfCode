@@ -60,7 +60,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [ ] Flex box
 - [ ] Design responsivo e consultas de Media Queries
 
-## Pré - Processadores
+## Pré - Processadores <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_sass_icon_130182.png"/>
 
 - [ ] Sass
 
@@ -74,7 +74,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [ ] Aprender Programação Funcional
 - [ ] Com o tempo aprender padrões de projetos em JavaScript
 
-## Gerenciador de tarefa
+## Gerenciador de tarefa <img src="https://icon-icons.com/icons2/2108/PNG/48/npm_icon_130871.png"/>
 
 - [ ] Npm
 - [ ] Yarn
@@ -82,7 +82,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 ## Estudar sobre UX design
 - [ ] Figma
 
-## Framework JavaScript
+## Framework JavaScript <img src="https://icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png"/> <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_yarn_icon_130052.png"/>
 
 - [ ] React.js
 
