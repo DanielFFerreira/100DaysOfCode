@@ -79,7 +79,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [ ] Npm
 - [ ] Yarn
 
-## Estudar sobre UX design
+## Estudar sobre UX design <img src="https://icon-icons.com/icons2/2429/PNG/32/figma_logo_icon_147289.png"/>
 - [ ] Figma
 
 ## Framework JavaScript <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png"/> <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_yarn_icon_130052.png"/>
