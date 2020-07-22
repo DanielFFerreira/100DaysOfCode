@@ -74,7 +74,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [ ] Aprender Programação Funcional
 - [ ] Com o tempo aprender padrões de projetos em JavaScript
 
-## Gerenciador de tarefa <img src="https://icon-icons.com/icons2/2108/PNG/48/npm_icon_130871.png"/>
+## Gerenciador de tarefa <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_npm_icon_130297.png"/> <img src="https://icon-icons.com/icons2/2415/PNG/32/yarn_original_logo_icon_146287.png"/>
 
 - [ ] Npm
 - [ ] Yarn
