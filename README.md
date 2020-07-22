@@ -1,12 +1,13 @@
 <h1 align="center">
-    100 Days of Code
+    :rocket: 100 Days of Code
 </h1>
 
 ## Objetivos no desafio
-Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para criar um rotina de estudos.
-## Estudar Lógica de Programação com linguagem C
-## Estudar sobre UX design
-- Figma
+Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para criar um rotina de estudos. Estudo para melhorar as habilidade nas tecnologias web, que estão listados abaixo.
+
+- :memo: Contéudo diarios 
+
+## Estudar Lógica de Programação com linguagem C e estrutura de dados
 
 ## Git e Github
 
@@ -73,6 +74,9 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 - [ ] Npm
 - [ ] Yarn
+
+## Estudar sobre UX design
+- [ ] Figma
 
 ## Framework JavaScript
 
