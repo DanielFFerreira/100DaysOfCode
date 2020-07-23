@@ -49,25 +49,19 @@ Acesse esse link para para mais informações: [Submarinecablemap](<https://www.
 
 ## Uma rede simples
 
-Quando dois computadores precisam se comunicar, é preciso conectá-los, seja fisicamente (normalmente com um cabo de rede) e a outra forma sem fio (por exemplo com sistemas WiFi ou Bluetooth). Todos os computadores modernos suportam algumas(s) dessas conexões.
+Para tornar a rede de computadores imune a ataques foi usada a tecnologia de transmissão de dados por comutação de pacotes – packet switching. Para entender essa tecnologia imagine a existência de três computadores instalados em três prédios diferentes conectados entre si através de linhas telefônicas. O computador A está ligado no computador B, o computador B está ligado ao computador C e o computador C está ligado ao computador A. Se o computador A deseja enviar uma nota para o computador C utiliza-se a rota AC. Caso exista um bloqueio na rota AC através dessa tecnologia é possível enviar a nota pela rota ABC. Como existem milhares de rotas na Internet a chance de paralisação total da rede é muito pequena.
+
+Para que a rede possa funcionar é necessário procedimento detalhado para a troca de dados. As regras são implementadas através de “protocolos de comunicação”. As regras de comunicação entre computadores são similares as de uma linguagem humana. Por exemplo, quando se estabelece uma conversa entre duas pessoas a etiqueta diz que enquanto uma fala a outra escuta; para que uma idéia seja transmitida é necessário colocar as palavras dentro de uma sintaxe da língua conveniente; caso o interlocutor não entenda a mensagem ele solicita que seja repetida. Para a troca de mensagens na Internet foi desenvolvido o protocolo de comunicação TCP/IP – Transmission Control Protocol/Internet Protocol. O protocolo IP é responsável por dividir uma mensagem em vários pacotes compatíveis com a rede e encaminhá-los ao computador com um determinado endereço na Internet. O protocolo TCP é responsável por manipular uma quantidade grande de dados e garantir que as informações transmitidas entre dois computadores da rede não contenham erros.
 
 ![](https://mdn.mozillademos.org/files/8441/internet-schema-1.png)
 
-Uma rede não é limitada a apenas dois computadores, você pode conectar quantos computadores desejar. Mas isto se torna complicado. Caso você está tentando conectar, digamos, dez computadores você irá precisar de no máximo 45 cabos, e com 9 conexões por computador.
-
 ![](https://mdn.mozillademos.org/files/8443/internet-schema-2.png)
-
-Para resolver este problema, cada computador na rede está conectado à um pequeno computador especial chamado de roteador. Este roteador tem um único trabalho: como um sinalizador em uma estação de trem, então ele vai confirmar de que a mensagem enviada por um computador chege ao computador destinatário. Para enviar uma mensagem para o computador B, o computador A deve enviar a mensagem para o roteador, que por sua vez encaminha a mensagem para o computador para o computador B e vai vereficar se mensagem não foi entregue ao computador C.
-
-Uma vez que nós adicionamos um roteador no sistema, nossa rede de 10 computadores apenas necessitará de 10 cabos: uma unica conexão para cada computador e um roteador com 10 conexões.
 
 ![](https://mdn.mozillademos.org/files/8445/internet-schema-3.png)
 
+![](https://mdn.mozillademos.org/files/8447/internet-schema-4.png)
 
-## Uma rede
-
-Mas como conectar centenas, milhares, bilhões de computadores ?
-
+![](https://mdn.mozillademos.org/files/8449/internet-schema-5.png)
 
 
 
