@@ -53,6 +53,8 @@ Para tornar a rede de computadores imune a ataques foi usada a tecnologia de tra
 
 Para que a rede possa funcionar é necessário procedimento detalhado para a troca de dados. As regras são implementadas através de “protocolos de comunicação”. As regras de comunicação entre computadores são similares as de uma linguagem humana. Por exemplo, quando se estabelece uma conversa entre duas pessoas a etiqueta diz que enquanto uma fala a outra escuta; para que uma idéia seja transmitida é necessário colocar as palavras dentro de uma sintaxe da língua conveniente; caso o interlocutor não entenda a mensagem ele solicita que seja repetida. Para a troca de mensagens na Internet foi desenvolvido o protocolo de comunicação TCP/IP – Transmission Control Protocol/Internet Protocol. O protocolo IP é responsável por dividir uma mensagem em vários pacotes compatíveis com a rede e encaminhá-los ao computador com um determinado endereço na Internet. O protocolo TCP é responsável por manipular uma quantidade grande de dados e garantir que as informações transmitidas entre dois computadores da rede não contenham erros.
 
+![](https://mdn.mozillademos.org/files/8405/dns-ip.png)
+
 ![](https://mdn.mozillademos.org/files/8441/internet-schema-1.png)
 
 ![](https://mdn.mozillademos.org/files/8443/internet-schema-2.png)
@@ -62,7 +64,6 @@ Para que a rede possa funcionar é necessário procedimento detalhado para a tro
 ![](https://mdn.mozillademos.org/files/8447/internet-schema-4.png)
 
 ![](https://mdn.mozillademos.org/files/8449/internet-schema-5.png)
-
 
 
 
