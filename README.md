@@ -41,11 +41,11 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 - [x] Como funciona o HTML
 - [x] O que são tags e como que elas funciona
 - [x] Estrutura básica de um documento HTML
-- [ ] Tags importantes para o HTML Básico
-- [ ] Estudar sobre seletores de classes e IDs no HTML
-- [ ] Escrevendo HTML semântico
-- [ ] Ver conceitos sobre Acessibilidade
-- [ ] Estudar conceitos básicos de SEO (Otimização para Mecanismos de Busca)
+- [x] Tags importantes para o HTML Básico
+- [x] Estudar sobre seletores de classes e IDs no HTML
+- [x] Escrevendo HTML semântico
+- [x] Ver conceitos sobre Acessibilidade
+- [x] Estudar conceitos básicos de SEO (Otimização para Mecanismos de Busca)
 
 ## CSS3 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
 
