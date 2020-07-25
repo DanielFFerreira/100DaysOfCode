@@ -49,11 +49,11 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## CSS3 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
 
-- [ ] Estudar os fundamentos de propriedade de CSS
+- [x] Estudar os fundamentos de propriedade de CSS
 - [ ] Layouts de marcação
 - [ ] Layouts de marcação
 - [ ] Flutuadores
-- [ ] Posionamento
+- [x] Posionamento
 - [ ] Display (Exibição)
 - [ ] Box Model (Modelos de caixa)
 - [ ] CSS Grid
@@ -90,16 +90,17 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 |Dia|Estudos|Tempo|
 | -------- | ----------------- | -------- |
-|1|Revisando os conceitos de git e estudando o funcionamento da internet| 3h
-|2|Estudando sobre a linguagem C e seus fundamentos|3h|
-|3|Estudando sobre ponteiros, structs, Matrizes, estrutura de repetição, condiocinais simples e compostas, trabalhando com arquivos...|3h|
-|4|Finalizando projeto final da faculdade, Foi desenvolvido um sistemas de cadastro de usuários|3h|
-|5|Estudar conceitos de HTML e acessibilidade e SEO|3h|
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
+|1|Git e Github: Revisando os conceitos de git e github. Comandos estudados init, commits, branch, merge, clone, status, checkout...| 3h
+|2|Internet: Funcionamento da internet como ela é conectada, cliente / servidor, TCP / IP, DNS, HTTP, Domínio, Hospedagem.|3h|
+|3|Linguagem C: Estudando sobre a linguagem C e seus fundamentos|3h|
+|4|Linguagem C: Estudando sobre ponteiros, structs, Matrizes, estrutura de repetição, condiocinais simples e compostas, trabalhando com arquivos..
+|3h|
+|5|HTML: Estudar conceitos de HTML e acessibilidade e SEO|3h|
+|6|HTML: Semântica e sobre tags|1:30h|
+|7|HTML: Classes e IDs|1h|
+|8|CSS : Fundamentos e conceitos|1:30h|
+|9|CSS : Posionamento|2h|
+|10|CSS : Box Model (Pagging e Margin)|1:30h|
 |11|||
 |12|||
 |13|||
