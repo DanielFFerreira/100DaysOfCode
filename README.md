@@ -98,10 +98,10 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 |5|HTML: Estudar conceitos de HTML e acessibilidade e SEO|3h|
 |6|HTML: Semântica e sobre tags|1:30h|
 |7|HTML: Classes e IDs|1h|
-|8|CSS : Fundamentos e conceitos|1:30h|
-|9|CSS : Posionamento|2h|
+|8|CSS : Introdução, sintaxe, seletores|1:30h|
+|9|CSS : Comentários, cores, backgrounds, borders|2h|
 |10|CSS : Box Model (Pagging e Margin)|1:30h|
-|11|||
+|11|CSS: Height/Width|2h|
 |12|||
 |13|||
 |14|||
