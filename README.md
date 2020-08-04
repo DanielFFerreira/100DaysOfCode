@@ -102,16 +102,16 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 |9|CSS : Comentários, cores, backgrounds, borders|2h|
 |10|CSS : Box Model (Pagging e Margin)|1:30h|
 |11|CSS: Height/Width|2h|
-|12|||
-|13|||
-|14|||
-|15|||
-|16|||
-|17|||
-|18|||
-|19|||
-|20|||
-|21|||
+|12|CSS: Display: flex|2h|
+|13|CSS: Flex-direction|1:30h|
+|14|CSS: Flex-wrap|2h|
+|15|CSS: Design responsível|2h|
+|16|NPM: NPM (Gerenciador de tarefas|1:10h|
+|17|CSS: Order, Flex items|1:00h|
+|18|CSS: Vendo as diferenças sobre float e flexbox|2h|
+|19|CSS: Justify-content|3h|
+|20|CSS: Flex-basis|1:20h|
+|21|CSS: Align-items|2h|
 |22|||
 |23|||
 |24|||
