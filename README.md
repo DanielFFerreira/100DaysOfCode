@@ -90,44 +90,43 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 |Dia|Estudos|Tempo|
 | -------- | ----------------- | -------- |
-|1|Git e Github: Revisando os conceitos de git e github. Comandos estudados init, commits, branch, merge, clone, status, checkout...| 3h
-|2|Internet: Funcionamento da internet como ela é conectada, cliente / servidor, TCP / IP, DNS, HTTP, Domínio, Hospedagem.|3h|
-|3|Linguagem C: Estudando sobre a linguagem C e seus fundamentos|3h|
-|4|Linguagem C: Estudando sobre ponteiros, structs, Matrizes, estrutura de repetição, condiocinais simples e compostas, trabalhando com arquivos..
-|3h|
-|5|HTML: Estudar conceitos de HTML e acessibilidade e SEO|3h|
-|6|HTML: Semântica e sobre tags|1:30h|
-|7|HTML: Classes e IDs|1h|
-|8|CSS : Introdução, sintaxe, seletores|1:30h|
-|9|CSS : Comentários, cores, backgrounds, borders|2h|
-|10|CSS : Box Model (Pagging e Margin)|1:30h|
-|11|CSS: Height/Width|2h|
-|12|CSS: Display: flex|2h|
-|13|CSS: Flex-direction|1:30h|
-|14|CSS: Flex-wrap|2h|
-|15|CSS: Design responsível|2h|
-|16|NPM: NPM (Gerenciador de tarefas|1:10h|
-|17|CSS: Order, Flex items|1:00h|
-|18|CSS: Vendo as diferenças sobre float e flexbox|2h|
-|19|CSS: Justify-content|3h|
-|20|CSS: Flex-basis|1:20h|
-|21|CSS: Align-items|2h|
-|22|||
-|23|||
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|29|||
-|30|||
-| 31 |  |  |  |
-| 32 |  |  |  |
-| 33 |  |  |  |
-| 34 |  |  |  |
-| 35 |  |  |  |
-| 36 |  |  |  |
-| 37 |  |  |  |
+|1|Revisando os conceitos de git e estudando o funcionamento da internet| 3h
+|2|Estudando sobre a linguagem C e seus fundamentos|3h|
+|3|Estudando sobre ponteiros, structs, Matrizes, estrutura de repetição, condiocinais simples e compostas, trabalhando com arquivos...|3h|
+|4|Finalizando projeto final da faculdade, Foi desenvolvido um sistemas de cadastro de usuários|3h|
+|5|Estudar conceitos de HTML e acessibilidade e SEO|3h|
+|6|Estudando sobre reset e normalize no css|2h|
+|7|Estudando sobre pseudo-classes css|3h|
+|8|Exercícios HTML/CSS|2h|
+|9|Exercícios HTML/CSS|2h|
+|10|Exercícios HTML/CSS|2h|
+|11|Exercícios HTML/CSS|2h|
+|12|Exercícios HTML/CSS|2h|
+|13|Exercícios HTML/CSS codepen|3h|
+|14|Animações HTML5/CSS3|1:30h|
+|15|Estudando sobre tags de formulário html|2h|
+|16|Estudando Conceitos de um bom e um mal design da disciplina design de interação|1:30h|
+|17|Estudando sobre critérios de usabilidade no design | 1:40h|
+|18|Estudando sobre a usabilidade na web|1:00h|
+|19|Estudando e entendendo sobre os fatores humanos envolvidos|1:10h|
+|20|Estudando a história do design|1:00h|
+|21|Estudando O INÍCIO DOS COMPUTADORES PESSOAIS|1:50h|
+|22|Exercícios Listas com CSS|2:30h|
+|23|Exercícios Listas com CSS|2:30h|
+|24|Exercícios Listas com CSS|2:30h|
+|25|Exercícios Listas com CSS|2:30h|
+|26|Entendendo Listas na pratica HTML|2h|
+|27|Entendendo Listas II na pratica HTML|2h|
+|28|Entendendo Sobre formulários na pratica HTML|2h|
+|29|Estudando sobre a estrutura os tipos de submit no html|2h|
+|30|Criação de animações usando HTMl e CSS|2h|
+| 31 | Criação de animações usando HTMl e CSS |  2h| |
+| 32 |Criação de animações e usando gradient CSS| 2h |  |
+| 33 | Execícios usando grid-css | 2h |  |
+| 34 | Execícios usando grid-css | 2h |  |
+| 35 | Execícios usando grid-css | 2h |  |
+| 36 | Execícios usando grid-template-collunm | 2h |  |
+| 37 | Execícios usando grid-gap | 2h |  |
 | 38 |  |  |  |
 | 39 |  |  |  |
 | 40 |  |  |  |
