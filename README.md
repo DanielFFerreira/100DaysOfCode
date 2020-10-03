@@ -127,39 +127,40 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 | 35 | Execícios usando grid-css | 2h |  |
 | 36 | Execícios usando grid-template-collunm | 2h |  |
 | 37 | Execícios usando grid-gap | 2h |  |
-| 38 |  |  |  |
-| 39 |  |  |  |
-| 40 |  |  |  |
-| 41 |  |  |  |
-| 42 |  |  |  |
-| 43 |  |  |  |
-| 44 |  |  |  |
-| 45 |  |  |  |
-| 46 |  |  |  |
-| 47 |  |  |  |
-| 48 |  |  |  |
-| 49 |  |  |  |
-| 50 |  |  |  |
-| 51 |  |  |  |
-| 52 |  |  |  |
-| 53 |  |  |  |
-| 54 |  |  |  |
-| 55 |  |  |  |
-| 56 |  |  |  |
-| 57 |  |  |  |
-| 58 |  |  |  |
-| 59 |  |  |  |
-| 60 |  |  |  |
-| 61 |  |  |  |
-| 62 |  |  |  |
-| 63 |  |  |  |
-| 64 |  |  |  |
-| 65 |  |  |  |
-| 66 |  |  |  |
-| 67 |  |  |  |
-| 68 |  |  |  |
-| 69 |  |  |  |
-| 70 |  |  |  |
+| 38 | Exercicíos montar site | 3h |  |
+| 39 | Exercicíos montar site | 3h |  |
+| 41 | Exercicíos montar site | 3h |  |
+| 40 | Exercicíos montar site | 3h |  |
+| 41 | Exercicíos montar site | 3h |  |
+| 42 | Exercicíos montar site | 3h |  |
+| 43 | Exercicíos montar site | 3h |  |
+| 44 | Exercicíos montar site | 3h |  |
+| 45 | Exercicíos montar site | 3h |  |
+| 46 | Exercicíos montar site | 3h |  |
+| 47 | Exercicíos montar site | 3h |  |
+| 48 | Exercicíos montar site | 3h |  |
+| 49 | Exercicíos montar site | 3h |  |
+| 50 | Exercicios frontend mentor | 4h |  |
+| 51 | Exercicios frontend mentor | 4h |  |
+| 52 | Exercicios frontend mentor | 4h |  |
+| 53 | Exercicios frontend mentor | 4h |  |
+| 54 | Exercicios frontend mentor | 4h |  |
+| 55 | Exercicios frontend mentor | 4h  |  |
+| 56 | Exercicios frontend mentor | 4h |  |
+| 57 | Exercicios frontend mentor | 4h |  |
+| 58 | Exercicios frontend mentor | 4h |  |
+| 59 | Exercicios frontend mentor | 4h |  |
+| 60 | Exercicios frontend mentor | 4h |  |
+| 61 | Exercicios frontend mentor | 4h |  |
+| 62 | Exercicios frontend mentor | 4h |  |
+| 63 | Exercicios frontend mentor | 4h |  |
+| 64 | Exercicios frontend mentor | 4h |  |
+| 65 | Exercicios frontend mentor | 4h |  |
+| 66 | Exercicios frontend mentor | 4h |  |
+| 67 | Exercicios frontend mentor | 4h |  |
+| 68 | Exercicios frontend mentor | 4h |  |
+| 69 | Exercicios frontend mentor | 4h |  |
+| 70 | Exercicios frontend mentor | 4h |  |
 | 71 |  |  |  |
 | 72 |  |  |  |
 | 73 |  |  |  |
