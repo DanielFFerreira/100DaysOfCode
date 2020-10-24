@@ -50,23 +50,23 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 ## CSS3 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
 
 - [x] Estudar os fundamentos de propriedade de CSS
-- [ ] Layouts de marcação
-- [ ] Layouts de marcação
-- [ ] Flutuadores
+- [x] Layouts de marcação
+- [x] Layouts de marcação
+- [x] Flutuadores
 - [x] Posionamento
-- [ ] Display (Exibição)
-- [ ] Box Model (Modelos de caixa)
+- [x] Display (Exibição)
+- [x] Box Model (Modelos de caixa)
 - [ ] CSS Grid
-- [ ] Flex box
-- [ ] Design responsivo e consultas de Media Queries
+- [x] Flex box
+- [x] Design responsivo e consultas de Media Queries
 
 ## Pré - Processadores <img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_sass_icon_130182.png"/>
 
-- [ ] Sass
+- [x] Sass
 
 ## Javascript <img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" />
 
-- [ ] Estudando lógica de programação com JavaScript
+- [x] Estudando lógica de programação com JavaScript
 - [ ] Estudar e aprender os conceitos básicos
 - [ ] Aprenda manipulação DOM
 - [ ] Testes com JavaScript
@@ -76,7 +76,7 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 
 ## Gerenciador de tarefa <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_npm_icon_130297.png"/> <img src="https://icon-icons.com/icons2/2415/PNG/32/yarn_original_logo_icon_146287.png"/>
 
-- [ ] Npm
+- [x] Npm
 - [ ] Yarn
 
 ## Estudar sobre UX design <img src="https://icon-icons.com/icons2/2429/PNG/32/figma_logo_icon_147289.png"/>
@@ -161,23 +161,23 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 | 68 | Exercicios frontend mentor | 4h |  |
 | 69 | Exercicios frontend mentor | 4h |  |
 | 70 | Exercicios frontend mentor | 4h |  |
-| 71 |  |  |  |
-| 72 |  |  |  |
-| 73 |  |  |  |
-| 74 |  |  |  |
-| 75 |  |  |  |
-| 76 |  |  |  |
-| 77 |  |  |  |
-| 78 |  |  |  |
-| 79 |  |  |  |
-| 80 |  |  |  |
-| 81 |  |  |  |
-| 82 |  |  |  |
-| 83 |  |  |  |
-| 84 |  |  |  |
-| 85 |  |  |  |
-| 86 |  |  |  |
-| 87 |  |  |  |
+| 71 | Exercicios CSS | 2h |  |
+| 72 | Exercicios CSS | 2h |  |
+| 73 | Exercicios CSS | 1h |  |
+| 74 | Exercicios CSS | 1h |  |
+| 75 | Exercicios CSS | 2h |  |
+| 76 | Exercicios CSS | 2h |  |
+| 77 | Exercicios CSS | 2h |  |
+| 78 | Exercicios CSS | 2h |  |
+| 79 | Exercicios CSS | 2h |  |
+| 80 | Exercicios CSS | 2h |  |
+| 81 | Exercicios CSS | 2h |  |
+| 82 | Exercicios CSS | 2h |  |
+| 83 | Exercicios SCSS | 2h |  |
+| 84 | Exercicios SCSS | 2h |  |
+| 85 | Exercicios SCSS | 2h |  |
+| 86 | Exercicios SCSS | 2h |  |
+| 87 | Exercicios SCSS | 2h |  |
 | 88 |  |  |  |
 | 89 |  |  |  |
 | 90 |  |  |  |
