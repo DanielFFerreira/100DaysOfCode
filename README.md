@@ -67,24 +67,24 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 ## Javascript <img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" />
 
 - [x] Estudando lógica de programação com JavaScript
-- [ ] Estudar e aprender os conceitos básicos
-- [ ] Aprenda manipulação DOM
-- [ ] Testes com JavaScript
-- [ ] Estudar sobre POO (Programação orientada a objetos) para JavaScript
-- [ ] Aprender Programação Funcional
-- [ ] Com o tempo aprender padrões de projetos em JavaScript
+- [x] Estudar e aprender os conceitos básicos
+- [x] Aprenda manipulação DOM
+- [x] Testes com JavaScript
+- [x] Estudar sobre POO (Programação orientada a objetos) para JavaScript
+- [x] Aprender Programação Funcional
+- [x] Com o tempo aprender padrões de projetos em JavaScript
 
 ## Gerenciador de tarefa <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_npm_icon_130297.png"/> <img src="https://icon-icons.com/icons2/2415/PNG/32/yarn_original_logo_icon_146287.png"/>
 
 - [x] Npm
-- [ ] Yarn
+- [x] Yarn
 
 ## Estudar sobre UX design <img src="https://icon-icons.com/icons2/2429/PNG/32/figma_logo_icon_147289.png"/>
 - [ ] Figma
 
 ## Framework JavaScript <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png"/> 
 
-- [ ] React.js
+- [x] React.js
 
 # #100daysofcode
 
@@ -178,18 +178,18 @@ Programe no mínimo uma hora todos os dias durante os próximos 100 dias, para c
 | 85 | Exercicios SCSS | 2h |  |
 | 86 | Exercicios SCSS | 2h |  |
 | 87 | Exercicios SCSS | 2h |  |
-| 88 |  |  |  |
-| 89 |  |  |  |
-| 90 |  |  |  |
-| 91 |  |  |  |
-| 92 |  |  |  |
-| 93 |  |  |  |
-| 94 |  |  |  |
-| 95 |  |  |  |
-| 96 |  |  |  |
-| 97 |  |  |  |
-| 98 |  |  |  |
-| 99 |  |  |  |
-| 100 |  |  |  |
+| 88 | Exercicios SCSS | 2h |  |
+| 89 | Exercicios SCSS | 2h  |  |
+| 90 | Exercicios Javascript | 2h |  |
+| 91 | Exercicios Javascript | 2h |  |
+| 92 | Exercicios Javascript | 2h |  |
+| 93 | Exercicios Javascript | 2h |  |
+| 94 | Exercicios Javascript | 2h |  |
+| 95 | Exercicios Javascript | 2h |  |
+| 96 | Exercicios Javascript | 2h |  |
+| 97 | Exercicios Javascript | 2h |  |
+| 98 | Exercicios Javascript | 2h |  |
+| 99 | Exercicios Javascript | 2h |  |
+| 100 | Exercicios Javascript | 2h |  |
 
 Com ❤ Daniel Developer!
